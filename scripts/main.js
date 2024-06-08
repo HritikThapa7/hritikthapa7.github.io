@@ -79,7 +79,7 @@ async function getInputValue(){
   else if(value === "about"){
     trueValue(value);
     createText("Hi! Its me Hritik Thapa.")
-    createText("I am a Cybersecurity Enthusiast from Nepal, currently pursuing my Bachelor's in Computer Engineering at Kathmandu University.")
+    createText("I am a Cybersecurity Enthusiast from Nepal, currently working as a Security Research Engineer at Logpoint. I am passionate about security and coding.")
     createText("Learn more about me with the help of the commands :)")
   }
 

@@ -79,7 +79,7 @@ async function getInputValue(){
   else if(value === "about"){
     trueValue(value);
     createText("Hi! Its me Hritik Thapa.")
-    createText("I am a Cybersecurity Enthusiast from Nepal, currently working as a Security Research Engineer at Logpoint. I am passionate about security and coding.")
+    createText("I am a Cybersecurity Enthusiast from Nepal, currently working as a Security Engineer at StickmanCyber. I am passionate about security and coding. I'd like to be a detection engineering wizard!")
     createText("Learn more about me with the help of the commands :)")
   }
 
@@ -103,7 +103,7 @@ async function getInputValue(){
     trueValue(value);
     createText("SLC (90.38%): Akhanda Vidya Sadan")
     createText("+2 Science (79.8%): Goldengate International College")
-    createText("UNG Comp. Engg. (CGPA 3.84): Kathmandu University")
+    createText("UNG Comp. Engg. (CGPA 3.85): Kathmandu University")
   }
   else if(value === "hobby -a"){
     trueValue(value);

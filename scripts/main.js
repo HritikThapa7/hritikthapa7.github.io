@@ -93,7 +93,7 @@ async function getInputValue(){
     createText("<a href='https://github.com/hritikthapa7' target='_blank'><i class='fab fa-github white'></i> github.com/hritikthapa7</a>")
     createText("<a href='https://www.linkedin.com/in/hritik-thapa' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/hritik-thapa</a>")
     createText("<a href='https://www.upwork.com/freelancers/~012871fca509585c0b' target='_blank'><i class='fab fa-black-tie'></i></i> upwork.com/hritik_thapa</a>")
-    createText("<a href='https://medium.com/@hritkmjth' target='_blank'><i class='fa fa-medium' aria-hidden='true'></i> medium.com/@hritkmjth</a>")
+    createText("<a href='https://medium.com/@hritkmjth' target='_blank'><i class='fab fa-medium'></i> medium.com/@hritkmjth</a>")
 
   }
 
